@@ -1,5 +1,0 @@
-FROM python:3.7
-
-WORKDIR /work
-
-EXPOSE 80
